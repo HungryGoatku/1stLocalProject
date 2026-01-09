@@ -1,0 +1,72 @@
+
+h1{
+    font-size: 5vw;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-align: center;
+}
+
+ h1:hover{
+    background-color: white;
+}
+
+h2:hover{
+    background-color: magenta;
+}
+
+p{
+    color: blue;
+    text-align: center;
+    font-size: large;
+}
+
+.container{
+    font-size: large;
+}
+
+body{
+    background-color: tan;
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+table, th, td{
+    border: 1px solid blue;
+    width: 50%;
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    display:inline-block
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family:'Times New Roman', Times, serif
+}
+
+nav a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right
+}
+nav a:hover{
+    background-color: yellow;
+}
